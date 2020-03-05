@@ -1,0 +1,9 @@
+{
+  "name": "solarized-colors",
+  "version": "1.0.0",
+  "description": "Hex value definitions for Ethan Schoonover's Solarized colorscheme.",
+  "main": "main.js",
+  "repository": "https://github.com/glhc/solarized-colors.git",
+  "author": "Patrick Horne <patrickahorne@gmail.com>",
+  "license": "MIT"
+}
