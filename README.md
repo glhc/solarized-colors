@@ -1,6 +1,8 @@
 # Solarized Colors
 ![npm](https://img.shields.io/npm/v/solarized-colors)
 
+Hex value definitions for Ethan Schoonover's Solarized colorscheme.
+
 ## Usage
 
 ```javascript

@@ -1,6 +1,6 @@
 {
   "name": "solarized-colors",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Hex value definitions for Ethan Schoonover's Solarized colorscheme.",
   "main": "main.js",
   "repository": "glhc/solarized-colors",
